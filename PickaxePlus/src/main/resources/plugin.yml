@@ -1,0 +1,9 @@
+name: PickaxePlus
+version: ${project.version}
+main: pickaxeplus.me.meerzean.PickaxeMain
+api-version: 1.16
+authors: [ Meerzean ]
+description: A Plugin to ench your pickaxes easily!
+commands:
+  pickaxeplus:
+    description: Main command

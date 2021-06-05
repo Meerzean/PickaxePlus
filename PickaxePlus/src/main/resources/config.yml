@@ -1,0 +1,8 @@
+version: '1.0' #Don't touch.
+
+maxLevel: '&cThis ench is already at max!'
+notEnoughXP: '&cYou dont have enough xp'
+success: '&7You succesfully added &bench &7to your pickaxe!'
+noPermission: '&cYou dont have permission for this.'
+disabled: '&cThis ench is disabled!'
+pickaxePlusCommand: '&bIf you want to see a magic, then shift+rightclick a pickaxe.'
